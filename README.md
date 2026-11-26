@@ -254,3 +254,18 @@ signal-stack/
 ```
 
 Keep credentials, private documents, virtual environments, node_modules and generated caches out of version control. Review all staged files before publishing.
+
+
+## 🎥 Project Demonstration
+
+[Watch the Full Project Demo](https://drive.google.com/file/d/1vsJj6D-dPElr63f75QsWhIhu9HotE16M/view?usp=sharing)
+
+The demonstration covers:
+- AI-powered company research
+- Adaptive interview system
+- Competitor intelligence
+- Ethical web monitoring
+- Signal analysis and ranking
+- Executive brief generation
+- Multi-company management
+- Automated scheduling
